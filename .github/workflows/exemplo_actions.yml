@@ -11,7 +11,7 @@ jobs:
     - name: escrever-mensagem
     run: echo "Olá GitHub Actions!"
     - name: escrever-mensagem-com-R
-    run: Rscript -e 'print("Olá GitHub Actions, agora usando R!")'
+    run: Rscript -e 'print("Olá GitHub Actions, agora usando R!!")'
     
 
   

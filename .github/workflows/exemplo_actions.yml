@@ -1,0 +1,30 @@
+on:
+  workflow_dispatch:
+  
+name: exemplo_actions
+
+jobs:
+  run-code:
+  runs-on: ubunto-latest
+  steps:
+  - name: escrever-mensagem
+  run: echo "Olá GitHub Actions!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

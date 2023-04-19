@@ -1,3 +1,34 @@
+# Github actions
+#usethis::use_git()
+
+usethis::use_github()
 
 
-usethis::use_git()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
